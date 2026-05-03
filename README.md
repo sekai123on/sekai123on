@@ -1,11 +1,18 @@
 ## Hi there 👋
 
 I am Ei, and my nickname is PanWeBoDIA.
+
 I'm currently working as a .NET Developer from home. 
+
 And the tools I use whenever I develop are GitHub, VS Code, PostgreSQL, IntelliJ, Postman, Gemini, Cursor and ChatGpt.
+
 I'm currently learning Java and going to learn The Cloud Computing later in May.
+
 I'm looking for a job that is hired abroad with a backend developer role.
-If you want to reach me, You can contact my LinkedIn DM. 
+
+=============================================================================
+
+If you want to reach me, You can contact my LinkedIn DM that I attached in my profile. 
 
 <!--
 **sekai123on/sekai123on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
