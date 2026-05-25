@@ -4,7 +4,7 @@ I am Ei, and my nickname is PanWeBoDIA.
 
 I'm currently working as a .NET Developer from home. 
 
-And the tools I use whenever I develop are GitHub, VS Code, PostgreSQL, IntelliJ, Postman, Gemini, Cursor and ChatGpt.
+And the tools I use whenever I develop are GitHub, VS Code, PostgreSQL, IntelliJ, Postman, Gemini, Cursor, Claude and ChatGpt.
 
 I'm currently learning Java and going to learn The Cloud Computing later in May.
 
